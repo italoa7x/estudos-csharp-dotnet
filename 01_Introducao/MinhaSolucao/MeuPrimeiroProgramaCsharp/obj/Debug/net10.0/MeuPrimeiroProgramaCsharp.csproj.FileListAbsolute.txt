@@ -1,0 +1,14 @@
+C:\Users\darkc\Documents\curso_csharp\MinhaSolucao\MeuPrimeiroProgramaCsharp\bin\Debug\net10.0\MeuPrimeiroProgramaCsharp.exe
+C:\Users\darkc\Documents\curso_csharp\MinhaSolucao\MeuPrimeiroProgramaCsharp\bin\Debug\net10.0\MeuPrimeiroProgramaCsharp.deps.json
+C:\Users\darkc\Documents\curso_csharp\MinhaSolucao\MeuPrimeiroProgramaCsharp\bin\Debug\net10.0\MeuPrimeiroProgramaCsharp.runtimeconfig.json
+C:\Users\darkc\Documents\curso_csharp\MinhaSolucao\MeuPrimeiroProgramaCsharp\bin\Debug\net10.0\MeuPrimeiroProgramaCsharp.dll
+C:\Users\darkc\Documents\curso_csharp\MinhaSolucao\MeuPrimeiroProgramaCsharp\bin\Debug\net10.0\MeuPrimeiroProgramaCsharp.pdb
+C:\Users\darkc\Documents\curso_csharp\MinhaSolucao\MeuPrimeiroProgramaCsharp\obj\Debug\net10.0\MeuPrimeiroProgramaCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darkc\Documents\curso_csharp\MinhaSolucao\MeuPrimeiroProgramaCsharp\obj\Debug\net10.0\MeuPrimeiroProgramaCsharp.AssemblyInfoInputs.cache
+C:\Users\darkc\Documents\curso_csharp\MinhaSolucao\MeuPrimeiroProgramaCsharp\obj\Debug\net10.0\MeuPrimeiroProgramaCsharp.AssemblyInfo.cs
+C:\Users\darkc\Documents\curso_csharp\MinhaSolucao\MeuPrimeiroProgramaCsharp\obj\Debug\net10.0\MeuPrimeiroProgramaCsharp.csproj.CoreCompileInputs.cache
+C:\Users\darkc\Documents\curso_csharp\MinhaSolucao\MeuPrimeiroProgramaCsharp\obj\Debug\net10.0\MeuPrimeiroProgramaCsharp.dll
+C:\Users\darkc\Documents\curso_csharp\MinhaSolucao\MeuPrimeiroProgramaCsharp\obj\Debug\net10.0\refint\MeuPrimeiroProgramaCsharp.dll
+C:\Users\darkc\Documents\curso_csharp\MinhaSolucao\MeuPrimeiroProgramaCsharp\obj\Debug\net10.0\MeuPrimeiroProgramaCsharp.pdb
+C:\Users\darkc\Documents\curso_csharp\MinhaSolucao\MeuPrimeiroProgramaCsharp\obj\Debug\net10.0\MeuPrimeiroProgramaCsharp.genruntimeconfig.cache
+C:\Users\darkc\Documents\curso_csharp\MinhaSolucao\MeuPrimeiroProgramaCsharp\obj\Debug\net10.0\ref\MeuPrimeiroProgramaCsharp.dll

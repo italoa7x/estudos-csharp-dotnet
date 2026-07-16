@@ -1,0 +1,14 @@
+C:\Users\darkc\Documents\curso_csharp\03_estrutura_controle\estruturaDeControle\bin\Debug\net10.0\estruturaDeControle.exe
+C:\Users\darkc\Documents\curso_csharp\03_estrutura_controle\estruturaDeControle\bin\Debug\net10.0\estruturaDeControle.deps.json
+C:\Users\darkc\Documents\curso_csharp\03_estrutura_controle\estruturaDeControle\bin\Debug\net10.0\estruturaDeControle.runtimeconfig.json
+C:\Users\darkc\Documents\curso_csharp\03_estrutura_controle\estruturaDeControle\bin\Debug\net10.0\estruturaDeControle.dll
+C:\Users\darkc\Documents\curso_csharp\03_estrutura_controle\estruturaDeControle\bin\Debug\net10.0\estruturaDeControle.pdb
+C:\Users\darkc\Documents\curso_csharp\03_estrutura_controle\estruturaDeControle\obj\Debug\net10.0\estruturaDeControle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darkc\Documents\curso_csharp\03_estrutura_controle\estruturaDeControle\obj\Debug\net10.0\estruturaDeControle.AssemblyInfoInputs.cache
+C:\Users\darkc\Documents\curso_csharp\03_estrutura_controle\estruturaDeControle\obj\Debug\net10.0\estruturaDeControle.AssemblyInfo.cs
+C:\Users\darkc\Documents\curso_csharp\03_estrutura_controle\estruturaDeControle\obj\Debug\net10.0\estruturaDeControle.csproj.CoreCompileInputs.cache
+C:\Users\darkc\Documents\curso_csharp\03_estrutura_controle\estruturaDeControle\obj\Debug\net10.0\estruturaDeControle.dll
+C:\Users\darkc\Documents\curso_csharp\03_estrutura_controle\estruturaDeControle\obj\Debug\net10.0\refint\estruturaDeControle.dll
+C:\Users\darkc\Documents\curso_csharp\03_estrutura_controle\estruturaDeControle\obj\Debug\net10.0\estruturaDeControle.pdb
+C:\Users\darkc\Documents\curso_csharp\03_estrutura_controle\estruturaDeControle\obj\Debug\net10.0\estruturaDeControle.genruntimeconfig.cache
+C:\Users\darkc\Documents\curso_csharp\03_estrutura_controle\estruturaDeControle\obj\Debug\net10.0\ref\estruturaDeControle.dll

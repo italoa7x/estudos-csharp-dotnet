@@ -1,0 +1,14 @@
+C:\Users\darkc\Documents\curso_csharp\04_classes\classesObjetos\bin\Debug\net10.0\classesObjetos.exe
+C:\Users\darkc\Documents\curso_csharp\04_classes\classesObjetos\bin\Debug\net10.0\classesObjetos.deps.json
+C:\Users\darkc\Documents\curso_csharp\04_classes\classesObjetos\bin\Debug\net10.0\classesObjetos.runtimeconfig.json
+C:\Users\darkc\Documents\curso_csharp\04_classes\classesObjetos\bin\Debug\net10.0\classesObjetos.dll
+C:\Users\darkc\Documents\curso_csharp\04_classes\classesObjetos\bin\Debug\net10.0\classesObjetos.pdb
+C:\Users\darkc\Documents\curso_csharp\04_classes\classesObjetos\obj\Debug\net10.0\classesObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darkc\Documents\curso_csharp\04_classes\classesObjetos\obj\Debug\net10.0\classesObjetos.AssemblyInfoInputs.cache
+C:\Users\darkc\Documents\curso_csharp\04_classes\classesObjetos\obj\Debug\net10.0\classesObjetos.AssemblyInfo.cs
+C:\Users\darkc\Documents\curso_csharp\04_classes\classesObjetos\obj\Debug\net10.0\classesObjetos.csproj.CoreCompileInputs.cache
+C:\Users\darkc\Documents\curso_csharp\04_classes\classesObjetos\obj\Debug\net10.0\classesObjetos.dll
+C:\Users\darkc\Documents\curso_csharp\04_classes\classesObjetos\obj\Debug\net10.0\refint\classesObjetos.dll
+C:\Users\darkc\Documents\curso_csharp\04_classes\classesObjetos\obj\Debug\net10.0\classesObjetos.pdb
+C:\Users\darkc\Documents\curso_csharp\04_classes\classesObjetos\obj\Debug\net10.0\classesObjetos.genruntimeconfig.cache
+C:\Users\darkc\Documents\curso_csharp\04_classes\classesObjetos\obj\Debug\net10.0\ref\classesObjetos.dll

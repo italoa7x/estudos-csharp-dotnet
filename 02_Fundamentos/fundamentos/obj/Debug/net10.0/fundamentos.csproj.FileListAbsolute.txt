@@ -1,0 +1,14 @@
+C:\Users\darkc\Documents\curso_csharp\02_Fundamentos\fundamentos\obj\Debug\net10.0\fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darkc\Documents\curso_csharp\02_Fundamentos\fundamentos\obj\Debug\net10.0\fundamentos.AssemblyInfoInputs.cache
+C:\Users\darkc\Documents\curso_csharp\02_Fundamentos\fundamentos\obj\Debug\net10.0\fundamentos.AssemblyInfo.cs
+C:\Users\darkc\Documents\curso_csharp\02_Fundamentos\fundamentos\obj\Debug\net10.0\fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\darkc\Documents\curso_csharp\02_Fundamentos\fundamentos\bin\Debug\net10.0\fundamentos.exe
+C:\Users\darkc\Documents\curso_csharp\02_Fundamentos\fundamentos\bin\Debug\net10.0\fundamentos.deps.json
+C:\Users\darkc\Documents\curso_csharp\02_Fundamentos\fundamentos\bin\Debug\net10.0\fundamentos.runtimeconfig.json
+C:\Users\darkc\Documents\curso_csharp\02_Fundamentos\fundamentos\bin\Debug\net10.0\fundamentos.dll
+C:\Users\darkc\Documents\curso_csharp\02_Fundamentos\fundamentos\bin\Debug\net10.0\fundamentos.pdb
+C:\Users\darkc\Documents\curso_csharp\02_Fundamentos\fundamentos\obj\Debug\net10.0\fundamentos.dll
+C:\Users\darkc\Documents\curso_csharp\02_Fundamentos\fundamentos\obj\Debug\net10.0\refint\fundamentos.dll
+C:\Users\darkc\Documents\curso_csharp\02_Fundamentos\fundamentos\obj\Debug\net10.0\fundamentos.pdb
+C:\Users\darkc\Documents\curso_csharp\02_Fundamentos\fundamentos\obj\Debug\net10.0\fundamentos.genruntimeconfig.cache
+C:\Users\darkc\Documents\curso_csharp\02_Fundamentos\fundamentos\obj\Debug\net10.0\ref\fundamentos.dll
