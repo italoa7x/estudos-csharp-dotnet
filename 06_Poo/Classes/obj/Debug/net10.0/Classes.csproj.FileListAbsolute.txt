@@ -1,0 +1,15 @@
+C:\Users\darkc\Documents\curso_csharp\06_Poo\Classes\bin\Debug\net10.0\Classes.exe
+C:\Users\darkc\Documents\curso_csharp\06_Poo\Classes\bin\Debug\net10.0\Classes.deps.json
+C:\Users\darkc\Documents\curso_csharp\06_Poo\Classes\bin\Debug\net10.0\Classes.runtimeconfig.json
+C:\Users\darkc\Documents\curso_csharp\06_Poo\Classes\bin\Debug\net10.0\Classes.dll
+C:\Users\darkc\Documents\curso_csharp\06_Poo\Classes\bin\Debug\net10.0\Classes.pdb
+C:\Users\darkc\Documents\curso_csharp\06_Poo\Classes\obj\Debug\net10.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darkc\Documents\curso_csharp\06_Poo\Classes\obj\Debug\net10.0\Classes.AssemblyInfoInputs.cache
+C:\Users\darkc\Documents\curso_csharp\06_Poo\Classes\obj\Debug\net10.0\Classes.AssemblyInfo.cs
+C:\Users\darkc\Documents\curso_csharp\06_Poo\Classes\obj\Debug\net10.0\Classes.csproj.CoreCompileInputs.cache
+C:\Users\darkc\Documents\curso_csharp\06_Poo\Classes\obj\Debug\net10.0\Classes.sourcelink.json
+C:\Users\darkc\Documents\curso_csharp\06_Poo\Classes\obj\Debug\net10.0\Classes.dll
+C:\Users\darkc\Documents\curso_csharp\06_Poo\Classes\obj\Debug\net10.0\refint\Classes.dll
+C:\Users\darkc\Documents\curso_csharp\06_Poo\Classes\obj\Debug\net10.0\Classes.pdb
+C:\Users\darkc\Documents\curso_csharp\06_Poo\Classes\obj\Debug\net10.0\Classes.genruntimeconfig.cache
+C:\Users\darkc\Documents\curso_csharp\06_Poo\Classes\obj\Debug\net10.0\ref\Classes.dll

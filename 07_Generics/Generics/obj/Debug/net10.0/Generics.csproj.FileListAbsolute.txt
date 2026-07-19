@@ -1,0 +1,15 @@
+C:\Users\darkc\Documents\curso_csharp\07_Generics\Generics\bin\Debug\net10.0\Generics.exe
+C:\Users\darkc\Documents\curso_csharp\07_Generics\Generics\bin\Debug\net10.0\Generics.deps.json
+C:\Users\darkc\Documents\curso_csharp\07_Generics\Generics\bin\Debug\net10.0\Generics.runtimeconfig.json
+C:\Users\darkc\Documents\curso_csharp\07_Generics\Generics\bin\Debug\net10.0\Generics.dll
+C:\Users\darkc\Documents\curso_csharp\07_Generics\Generics\bin\Debug\net10.0\Generics.pdb
+C:\Users\darkc\Documents\curso_csharp\07_Generics\Generics\obj\Debug\net10.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darkc\Documents\curso_csharp\07_Generics\Generics\obj\Debug\net10.0\Generics.AssemblyInfoInputs.cache
+C:\Users\darkc\Documents\curso_csharp\07_Generics\Generics\obj\Debug\net10.0\Generics.AssemblyInfo.cs
+C:\Users\darkc\Documents\curso_csharp\07_Generics\Generics\obj\Debug\net10.0\Generics.csproj.CoreCompileInputs.cache
+C:\Users\darkc\Documents\curso_csharp\07_Generics\Generics\obj\Debug\net10.0\Generics.sourcelink.json
+C:\Users\darkc\Documents\curso_csharp\07_Generics\Generics\obj\Debug\net10.0\Generics.dll
+C:\Users\darkc\Documents\curso_csharp\07_Generics\Generics\obj\Debug\net10.0\refint\Generics.dll
+C:\Users\darkc\Documents\curso_csharp\07_Generics\Generics\obj\Debug\net10.0\Generics.pdb
+C:\Users\darkc\Documents\curso_csharp\07_Generics\Generics\obj\Debug\net10.0\Generics.genruntimeconfig.cache
+C:\Users\darkc\Documents\curso_csharp\07_Generics\Generics\obj\Debug\net10.0\ref\Generics.dll

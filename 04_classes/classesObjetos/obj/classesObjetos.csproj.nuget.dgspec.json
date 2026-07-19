@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\darkc\\Documents\\curso_csharp\\04_classes\\classesObjetos\\classesObjetos.csproj": {}
+    "C:\\Users\\darkc\\Documents\\curso_csharp\\04_Classes\\classesObjetos\\classesObjetos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\darkc\\Documents\\curso_csharp\\04_classes\\classesObjetos\\classesObjetos.csproj": {
+    "C:\\Users\\darkc\\Documents\\curso_csharp\\04_Classes\\classesObjetos\\classesObjetos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\darkc\\Documents\\curso_csharp\\04_classes\\classesObjetos\\classesObjetos.csproj",
+        "projectUniqueName": "C:\\Users\\darkc\\Documents\\curso_csharp\\04_Classes\\classesObjetos\\classesObjetos.csproj",
         "projectName": "classesObjetos",
-        "projectPath": "C:\\Users\\darkc\\Documents\\curso_csharp\\04_classes\\classesObjetos\\classesObjetos.csproj",
+        "projectPath": "C:\\Users\\darkc\\Documents\\curso_csharp\\04_Classes\\classesObjetos\\classesObjetos.csproj",
         "packagesPath": "C:\\Users\\darkc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\darkc\\Documents\\curso_csharp\\04_classes\\classesObjetos\\obj\\",
+        "outputPath": "C:\\Users\\darkc\\Documents\\curso_csharp\\04_Classes\\classesObjetos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

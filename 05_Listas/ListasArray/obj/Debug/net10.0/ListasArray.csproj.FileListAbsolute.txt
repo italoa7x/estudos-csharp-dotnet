@@ -1,0 +1,15 @@
+C:\Users\darkc\Documents\curso_csharp\05_Listas\ListasArray\bin\Debug\net10.0\ListasArray.exe
+C:\Users\darkc\Documents\curso_csharp\05_Listas\ListasArray\bin\Debug\net10.0\ListasArray.deps.json
+C:\Users\darkc\Documents\curso_csharp\05_Listas\ListasArray\bin\Debug\net10.0\ListasArray.runtimeconfig.json
+C:\Users\darkc\Documents\curso_csharp\05_Listas\ListasArray\bin\Debug\net10.0\ListasArray.dll
+C:\Users\darkc\Documents\curso_csharp\05_Listas\ListasArray\bin\Debug\net10.0\ListasArray.pdb
+C:\Users\darkc\Documents\curso_csharp\05_Listas\ListasArray\obj\Debug\net10.0\ListasArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darkc\Documents\curso_csharp\05_Listas\ListasArray\obj\Debug\net10.0\ListasArray.AssemblyInfoInputs.cache
+C:\Users\darkc\Documents\curso_csharp\05_Listas\ListasArray\obj\Debug\net10.0\ListasArray.AssemblyInfo.cs
+C:\Users\darkc\Documents\curso_csharp\05_Listas\ListasArray\obj\Debug\net10.0\ListasArray.csproj.CoreCompileInputs.cache
+C:\Users\darkc\Documents\curso_csharp\05_Listas\ListasArray\obj\Debug\net10.0\ListasArray.sourcelink.json
+C:\Users\darkc\Documents\curso_csharp\05_Listas\ListasArray\obj\Debug\net10.0\ListasArray.dll
+C:\Users\darkc\Documents\curso_csharp\05_Listas\ListasArray\obj\Debug\net10.0\refint\ListasArray.dll
+C:\Users\darkc\Documents\curso_csharp\05_Listas\ListasArray\obj\Debug\net10.0\ListasArray.pdb
+C:\Users\darkc\Documents\curso_csharp\05_Listas\ListasArray\obj\Debug\net10.0\ListasArray.genruntimeconfig.cache
+C:\Users\darkc\Documents\curso_csharp\05_Listas\ListasArray\obj\Debug\net10.0\ref\ListasArray.dll

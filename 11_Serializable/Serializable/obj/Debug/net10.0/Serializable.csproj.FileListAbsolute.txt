@@ -1,0 +1,15 @@
+C:\Users\darkc\Documents\curso_csharp\11_Serializable\Serializable\bin\Debug\net10.0\Serializable.exe
+C:\Users\darkc\Documents\curso_csharp\11_Serializable\Serializable\bin\Debug\net10.0\Serializable.deps.json
+C:\Users\darkc\Documents\curso_csharp\11_Serializable\Serializable\bin\Debug\net10.0\Serializable.runtimeconfig.json
+C:\Users\darkc\Documents\curso_csharp\11_Serializable\Serializable\bin\Debug\net10.0\Serializable.dll
+C:\Users\darkc\Documents\curso_csharp\11_Serializable\Serializable\bin\Debug\net10.0\Serializable.pdb
+C:\Users\darkc\Documents\curso_csharp\11_Serializable\Serializable\obj\Debug\net10.0\Serializable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darkc\Documents\curso_csharp\11_Serializable\Serializable\obj\Debug\net10.0\Serializable.AssemblyInfoInputs.cache
+C:\Users\darkc\Documents\curso_csharp\11_Serializable\Serializable\obj\Debug\net10.0\Serializable.AssemblyInfo.cs
+C:\Users\darkc\Documents\curso_csharp\11_Serializable\Serializable\obj\Debug\net10.0\Serializable.csproj.CoreCompileInputs.cache
+C:\Users\darkc\Documents\curso_csharp\11_Serializable\Serializable\obj\Debug\net10.0\Serializable.sourcelink.json
+C:\Users\darkc\Documents\curso_csharp\11_Serializable\Serializable\obj\Debug\net10.0\Serializable.dll
+C:\Users\darkc\Documents\curso_csharp\11_Serializable\Serializable\obj\Debug\net10.0\refint\Serializable.dll
+C:\Users\darkc\Documents\curso_csharp\11_Serializable\Serializable\obj\Debug\net10.0\Serializable.pdb
+C:\Users\darkc\Documents\curso_csharp\11_Serializable\Serializable\obj\Debug\net10.0\Serializable.genruntimeconfig.cache
+C:\Users\darkc\Documents\curso_csharp\11_Serializable\Serializable\obj\Debug\net10.0\ref\Serializable.dll

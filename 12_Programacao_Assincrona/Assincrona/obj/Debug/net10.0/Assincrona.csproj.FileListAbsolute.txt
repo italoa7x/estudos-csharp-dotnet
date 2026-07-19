@@ -1,0 +1,15 @@
+C:\Users\darkc\Documents\curso_csharp\12_Programacao_Assincrona\Assincrona\bin\Debug\net10.0\Assincrona.exe
+C:\Users\darkc\Documents\curso_csharp\12_Programacao_Assincrona\Assincrona\bin\Debug\net10.0\Assincrona.deps.json
+C:\Users\darkc\Documents\curso_csharp\12_Programacao_Assincrona\Assincrona\bin\Debug\net10.0\Assincrona.runtimeconfig.json
+C:\Users\darkc\Documents\curso_csharp\12_Programacao_Assincrona\Assincrona\bin\Debug\net10.0\Assincrona.dll
+C:\Users\darkc\Documents\curso_csharp\12_Programacao_Assincrona\Assincrona\bin\Debug\net10.0\Assincrona.pdb
+C:\Users\darkc\Documents\curso_csharp\12_Programacao_Assincrona\Assincrona\obj\Debug\net10.0\Assincrona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darkc\Documents\curso_csharp\12_Programacao_Assincrona\Assincrona\obj\Debug\net10.0\Assincrona.AssemblyInfoInputs.cache
+C:\Users\darkc\Documents\curso_csharp\12_Programacao_Assincrona\Assincrona\obj\Debug\net10.0\Assincrona.AssemblyInfo.cs
+C:\Users\darkc\Documents\curso_csharp\12_Programacao_Assincrona\Assincrona\obj\Debug\net10.0\Assincrona.csproj.CoreCompileInputs.cache
+C:\Users\darkc\Documents\curso_csharp\12_Programacao_Assincrona\Assincrona\obj\Debug\net10.0\Assincrona.sourcelink.json
+C:\Users\darkc\Documents\curso_csharp\12_Programacao_Assincrona\Assincrona\obj\Debug\net10.0\Assincrona.dll
+C:\Users\darkc\Documents\curso_csharp\12_Programacao_Assincrona\Assincrona\obj\Debug\net10.0\refint\Assincrona.dll
+C:\Users\darkc\Documents\curso_csharp\12_Programacao_Assincrona\Assincrona\obj\Debug\net10.0\Assincrona.pdb
+C:\Users\darkc\Documents\curso_csharp\12_Programacao_Assincrona\Assincrona\obj\Debug\net10.0\Assincrona.genruntimeconfig.cache
+C:\Users\darkc\Documents\curso_csharp\12_Programacao_Assincrona\Assincrona\obj\Debug\net10.0\ref\Assincrona.dll
